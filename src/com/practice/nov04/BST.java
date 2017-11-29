@@ -156,6 +156,8 @@ public class BST<Key extends Comparable<Key>, Value> {
 		postOrder(root);
 	}
 
+	
+	//Might be wrong!
 	private void postOrder(Node node) {
 		Node p = node;
 		Stack<Node> stack = new Stack<Node>();
