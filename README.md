@@ -1,2 +1,2 @@
 # 1
-Daily Practice through Eclipse
+Daily Practice through Java
